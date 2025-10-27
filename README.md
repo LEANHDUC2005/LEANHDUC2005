@@ -5,7 +5,9 @@
 <br>
 <table style="color=cyan">
 <div>
+  <ol>
   <ls>Age: 20</ls>
   <ls>School: Industry of Universityu HoChiMinh City</ls>
+  </ol>
 </div>
 
