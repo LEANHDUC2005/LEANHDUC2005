@@ -5,7 +5,7 @@
 <br>
 <table style="color=cyan">
 <ol>
-    <li>Age: 20</li>
-    <li>School: Industry of University in Ho Chi Minh City</li>
+    <li style="color=blue">Age: 20</li>
+    <li style="color=lightsalmon">School: Industry of University in Ho Chi Minh City</li>
 </ol>
 
