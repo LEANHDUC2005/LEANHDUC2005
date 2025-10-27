@@ -6,8 +6,8 @@
 <table style="color=cyan">
 <div>
   <ol>
-  <ls>Age: 20</ls>
-  <ls>School: Industry of Universityu HoChiMinh City</ls>
+    <li>Age: 20</li>
+    <li>School: Industry of University in Ho Chi Minh City</li>
   </ol>
 </div>
 
