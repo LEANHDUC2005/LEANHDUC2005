@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hi there 👋</title>
 <body>
     <h1>Hi there 👋</h1>
     <p><b>I'm Lee</b></p>
