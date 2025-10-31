@@ -13,7 +13,7 @@
     </p>
     <img src="hrrps://tiermaker.com//images/template_images/2022/15746443/youtube-emotes-15746443/face-blue-wide-eyes.png">
     <br>
-            <a>About me</a>
+    <a>About me</a>
     <ul>
         <li class="age">Age: 20</li>
         <li class="school">School: Industry University of Ho Chi Minh City</li>
