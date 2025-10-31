@@ -14,6 +14,8 @@
     <ul>
         <li class="age">Age: 20</li>
         <li class="school">School: Industry University of Ho Chi Minh City</li>
+        <li class="major">Major: Embedded Programing</li>
+        <li class="language">Language I like to use: C, C++, C#</li>
     </ul>
 </body>
 </html>
