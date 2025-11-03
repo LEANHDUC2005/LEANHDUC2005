@@ -5,7 +5,7 @@
 <body>
     <h1>Hi there 👋</h1>
     <p><b>I'm Lee</b></p>
-    <img src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/person-turquoise-waving.png" alt="Lee waving">
+    <div style="display: incline-block";><img src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/person-turquoise-waving.png" alt="Lee waving"> <img src="https://preview.redd.it/kanye-west-graduation-3840x2160-v0-kjektcn4myv91.png?auto=webp&s=09ab551caf64aa606dc8720953ad6abaca36c079"></div>
     <ul>
         <a href="https://www.facebook.com/phanvanduc.1782005" target="_blank"><li>My Facebook</a></li>
         <img src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/face-turquoise-drinking-coffee.png" alt="Drinking coffee" width="30"><li><a href="https://leetcode.com/u/leanhduc2005/" target="_blank">My LeetCode: leanhduc2005 </a></li> 
