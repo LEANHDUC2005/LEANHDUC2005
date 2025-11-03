@@ -33,6 +33,8 @@
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://www.pinclipart.com/picdir/big/124-1248748_c-sharp-logo-png.png"/>
+  <img width="12" />
 </div>
 
 ###
