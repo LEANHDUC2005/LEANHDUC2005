@@ -6,9 +6,8 @@
 <body>
     <h1>Hi there 👋</h1>
     <h1 align="center" style="font-display: fallback";>I'm Lee</h1>
-    <div style="display: flex; justify-content: space-between; align-items:center;">
-        <div><img align="left" src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/person-turquoise-waving.png" alt="Lee waving" width="200" height="200"></div>
-        <div><img align="right"src="https://preview.redd.it/kanye-west-graduation-3840x2160-v0-kjektcn4myv91.png?auto=webp&s=09ab551caf64aa606dc8720953ad6abaca36c079" width="400" height="200"></div>
+    <img align="left" src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/person-turquoise-waving.png" alt="Lee waving" width="200" height="200">
+    <img align="right"src="https://preview.redd.it/kanye-west-graduation-3840x2160-v0-kjektcn4myv91.png?auto=webp&s=09ab551caf64aa606dc8720953ad6abaca36c079" width="400" height="200">
     </div>
     <ul>
         <li>
