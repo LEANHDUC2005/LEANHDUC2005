@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://www.pinclipart.com/picdir/big/124-1248748_c-sharp-logo-png.png" width="30"/>
+  <img src="https://www.pinclipart.com/picdir/big/124-1248748_c-sharp-logo-png.png" width="30" height="30"/>
   <img width="12" />
 </div>
 
