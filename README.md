@@ -8,7 +8,6 @@
     <h1 align="center" style="font-display: fallback";>I'm Lee</h1>
     <img align="left" src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/person-turquoise-waving.png" alt="Lee waving" width="200" height="200">
     <img align="right"src="https://preview.redd.it/kanye-west-graduation-3840x2160-v0-kjektcn4myv91.png?auto=webp&s=09ab551caf64aa606dc8720953ad6abaca36c079" width="400" height="200">
-    </div>
     <ul>
         <li>
             <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19759.png" width="30">
@@ -22,9 +21,13 @@
             <img src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/face-purple-wide-eyes.png" width="30">
             <a href="https://open.spotify.com/user/31wrucrefye57tu5m4rfi6n4w5c4?si=73a29f43dc7545ee" target="_blank">My Spotify</a>
         </li>
+    </ul>
+    <br>
+    <br>
+    <br>
+    <br>
     <ul>
-    <div style="display: incline-block;"><a>About me:</a> <img src="https://tiermaker.com/images/template_images/2022/15746443/youtube-emotes-15746443/face-blue-wide-eyes.png" width="100"></div>
-    <ul>
+        <li class="me">About me</li>
         <li class="age">Age: 20</li>
         <li class="school">School: Industry University of Ho Chi Minh City</li>
         <li class="major">Major: Embedded Programing</li>
@@ -32,6 +35,7 @@
     </ul>
 </body>
 <br>
+    
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LEANHDUC2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LEANHDUC2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
